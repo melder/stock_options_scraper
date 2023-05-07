@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.vscode
+.pylintrc
+TODO.md
+config/settings.yml

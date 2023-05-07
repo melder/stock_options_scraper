@@ -1,0 +1,17 @@
+version: 1.0
+
+polygon:
+  api_key: api_key_goes_here
+
+csv_files:
+  symbols: csv/symbols.csv
+  weeklies: csv/weeklies.csv
+  monthlies: csv/monthlies.csv
+  option_weeklies: csv/options_weeklies.csv
+  option_monthlies: csv/options.csv
+  aggregate: csv/aggregate.csv
+
+redis:
+  host: localhost
+  port: 6379
+  
